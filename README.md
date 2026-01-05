@@ -6,7 +6,7 @@
   </h1>
 
   <h3>
-    🤖 AI Researcher &nbsp;
+    🤖 AI Developer &nbsp;
     📈 Data Scientist &nbsp;
     
   </h3>
